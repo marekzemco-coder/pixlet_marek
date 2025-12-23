@@ -5,7 +5,7 @@
 [![Discord Server](https://img.shields.io/discord/928484660785336380?style=flat-square)](https://discord.gg/r45MXG4kZc)
 [![GoDoc](https://godoc.org/github.com/tidbyt/pixlet/runtime?status.svg)](https://godoc.org/github.com/tidbyt/pixlet/runtime)
 
-Pixlet is an app runtime and UX toolkit for highly-constrained displays.
+Pixlet is an app runtime and UX toolkit for highly-constrained displays. Marek's fork.
 We use Pixlet to develop applets for [Tidbyt](https://tidbyt.com/), which has
 a 64x32 RGB LED matrix display:
 
